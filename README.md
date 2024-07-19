@@ -29,28 +29,25 @@ Run the Simulation:
     python main.py
 ```
 
-Changing Simulation and Speed
-Simulation
+### **Changing Simulation and Speed Simulation**
 
 The simulation variable determines which maze and setup to use. There are 8 different simulations you can run, each with a different maze configuration.
 
 To change the simulation, modify the simulation variable in the main.py file:
 
-python
-
+```bash
 simulation = 1  # Change this value from 1 to 8 to select different simulations
-
-Speed
+```
 
 The speed variable controls the speed of the simulation. The higher the value, the slower the simulation will run.
 
 To change the speed, modify the speed variable in the main.py file:
 
-python
-
+```bash
 speed = 100  # Change this value to adjust the speed of the simulation
+```
 
-How It Works
+### **How It Works**
 
     Initialization:
         The simulation initializes with a population of dots, a target (red dot), and a maze.
