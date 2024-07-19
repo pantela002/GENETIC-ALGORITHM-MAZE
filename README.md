@@ -4,7 +4,7 @@ This project simulates a genetic algorithm to solve a maze using Python and Pyga
 
 ## **Additional Documentation**
 
-For detailed documentation and seminar papers related to this project, please refer to the [seminar paper folder](./seminarpaper).
+For detailed documentation and seminar papers related to this project, please refer to the [seminar paper folder](./seminar-paper).
 
 
 ## **Requirements**
