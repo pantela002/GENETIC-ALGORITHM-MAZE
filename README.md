@@ -70,8 +70,7 @@ speed = 100  # Change this value to adjust the speed of the simulation
 Screenshots
 
 Simulation 1
-
-
+'1.png'
 Simulation 2
 
 
