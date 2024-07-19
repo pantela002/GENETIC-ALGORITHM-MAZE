@@ -15,7 +15,7 @@ This project simulates a genetic algorithm to solve a maze using Python and Pyga
 ```bash
 git clone https://github.com/your-repo/genetic-algorithm-maze-solver.git
 cd genetic-algorithm-maze-solver
-
+```
 
 Install Dependencies:
 
