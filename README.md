@@ -4,7 +4,7 @@ This project simulates a genetic algorithm to solve a maze using Python and Pyga
 Requirements
 
     Python 3.x
-    Pygame
+    pygame 2.5.2 (SDL 2.28.2, Python 3.10.9)
     Matplotlib
 
 How to Run the Simulation
