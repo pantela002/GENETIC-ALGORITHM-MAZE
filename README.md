@@ -72,8 +72,9 @@ speed = 100  # Change this value to adjust the speed of the simulation
     Iteration:
         The process repeats for multiple generations, with each generation expected to perform better than the previous one.
 
-### Videos:
-![Alt text](moar/8.mp4)
+## **Video Demonstration**
+
+![Demo](moar/output.gif)
 
 ### Screenshots
 
