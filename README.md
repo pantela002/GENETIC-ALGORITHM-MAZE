@@ -69,20 +69,22 @@ speed = 100  # Change this value to adjust the speed of the simulation
 
 Screenshots
 
-Simulation 1
+#### Simulation 1
 ![Alt text](moar/1.png)
-Simulation 2
+
+#### Simulation 2
 ![Alt text](moar/2.png)
-Simulation 3
+
+#### Simulation 3
 ![Alt text](moar/3.png)
 
-Simulation 4
+#### Simulation 4
 ![Alt text](moar/4.png)
 
-Simulation 5
+#### Simulation 5
 ![Alt text](moar/5.png)
 
-Simulation 6
+#### Simulation 6
 ![Alt text](moar/6.png)
 
 
