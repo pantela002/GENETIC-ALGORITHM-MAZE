@@ -26,7 +26,7 @@ pip install pygame matplotlib
 Run the Simulation:
 
 ```bash
-    python main.py
+python main.py
 ```
 
 ### **Changing Simulation and Speed Simulation**
@@ -68,10 +68,12 @@ speed = 100  # Change this value to adjust the speed of the simulation
         The process repeats for multiple generations, with each generation expected to perform better than the previous one.
 
 Screenshots
+
 Simulation 1
 
 
 Simulation 2
+
 
 
 Simulation 3
