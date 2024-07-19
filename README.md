@@ -2,6 +2,11 @@
 
 This project simulates a genetic algorithm to solve a maze using Python and Pygame. The simulation includes flying dots that attempt to navigate the maze to reach a target (red dot). The algorithm evolves over generations to improve the pathfinding capabilities of the dots.
 
+## **Additional Documentation**
+
+For detailed documentation and seminar papers related to this project, please refer to the [seminar paper folder](./seminar_paper).
+
+
 ## **Requirements**
 
 - **Python 3.x**
