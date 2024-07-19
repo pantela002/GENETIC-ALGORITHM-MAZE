@@ -19,15 +19,15 @@ cd genetic-algorithm-maze-solver
 
 Install Dependencies:
 
-bash
-
+```bash
 pip install pygame matplotlib
+```
 
 Run the Simulation:
 
-bash
-
+```bash
     python main.py
+```
 
 Changing Simulation and Speed
 Simulation
