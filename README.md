@@ -1,20 +1,21 @@
-Genetic Algorithm Maze Solver
+# **Genetic Algorithm Maze Solver**
 
 This project simulates a genetic algorithm to solve a maze using Python and Pygame. The simulation includes flying dots that attempt to navigate the maze to reach a target (red dot). The algorithm evolves over generations to improve the pathfinding capabilities of the dots.
-Requirements
 
-    Python 3.x
-    pygame 2.5.2 (SDL 2.28.2, Python 3.10.9)
-    Matplotlib
+## **Requirements**
 
-How to Run the Simulation
+- **Python 3.x**
+- **pygame 2.5.2** (SDL 2.28.2, Python 3.10.9)
+- **Matplotlib**
 
-    Clone the Repository:
+## **How to Run the Simulation**
 
-    bash
+### **Clone the Repository:**
 
+```bash
 git clone https://github.com/your-repo/genetic-algorithm-maze-solver.git
 cd genetic-algorithm-maze-solver
+
 
 Install Dependencies:
 
